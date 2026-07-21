@@ -2,7 +2,7 @@
 
 A statistics research paper analyzing the historical evolution, literacy trends, and institutional growth of school and college education in West Bengal, using descriptive statistics on secondary data (Census of India, state education directorates, and Calcutta University records).
 
-**Authors:** Sourav Dey (22214110028) & Roshni Majhi (22214220029)
+**Authors:** Sourav Dey & Roshni Majhi
 **Program:** B.Sc. Statistics, UG-2, Sem-4 · Department of Statistics, Presidency University, Kolkata, West Bengal, India
 
 ## Overview
